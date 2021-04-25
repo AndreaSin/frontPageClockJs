@@ -1,1 +1,1 @@
-landpage JS
+home screen per il browser con ora e note salvate nella cache
